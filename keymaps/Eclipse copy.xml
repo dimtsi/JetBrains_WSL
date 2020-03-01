@@ -1,0 +1,25 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="JupyterRunCellAction" />
+  <action id="PyExecuteCellAction" />
+  <action id="QuickChangeScheme" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="StepInto" />
+  <action id="ViewSource" />
+</keymap>
