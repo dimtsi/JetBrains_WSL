@@ -1,0 +1,167 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.4&quot;" />
+      <homePath value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.datatransfer" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.instrument" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.logging" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.management.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.naming" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.net.http" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.prefs" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.scripting" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.se" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.security.sasl" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.smartcardio" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.sql" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.sql.rowset" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.transaction.xa" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.xml" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.xml.crypto" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.accessibility" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.aot" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.attach" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.charsets" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.dynalink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.editpad" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.httpserver" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.le" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jartool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.javadoc" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jcmd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jconsole" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jdeps" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jdi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jlink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jshell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jsobject" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.jstatd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.localedata" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.management.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.net" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.pack" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.rmic" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.sctp" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.security.auth" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.unsupported" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_222&quot;" />
+      <homePath value="/usr/lib/jvm/java-1.8.0-openjdk-amd64" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/icedtea-sound.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sagemaker-example) " />
+      <type value="Python SDK" />
+      <version value="Python 3.7.9" />
+      <homePath value="C:\Users\C72718\AppData\Local\Continuum\miniconda3\envs\sagemaker-example\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/sagemaker-example/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/sagemaker-example/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/sagemaker-example/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/sagemaker-example/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/sagemaker-example/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/sagemaker-example/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/687119056" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Projects/ai-sagemaker" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\C72718\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
